@@ -33,5 +33,9 @@ Explore hardware acceleration options (e.g., GPU utilization) to further improve
 Implement camera integration to allow users to perform real-time emotion detection using live camera feeds.
 Ensure compatibility with various camera models and provide appropriate configuration options
 
+## Requirements:
+### * OpenCV
+### * deepface
+
 # Working:
 [Project Video.webm](https://github.com/ParvSoni/Facial_Emotion_Detection/assets/123165567/3a8a9745-a69c-46de-a164-dd2ef5d04bd5)
