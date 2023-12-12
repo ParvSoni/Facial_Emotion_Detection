@@ -8,7 +8,7 @@ emotion_labels = ['angry', 'disgust', 'fear', 'happy', 'sad', 'surprise', 'neutr
 
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 
-cap = cv2.VideoCapture('Testing Video.webm')
+cap = cv2.VideoCapture('Testing Video.webm') # use (0) to access camera of your device
 
 while True:
     ret, frame = cap.read()
